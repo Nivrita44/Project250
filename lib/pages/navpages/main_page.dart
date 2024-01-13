@@ -2,7 +2,7 @@ import 'dart:ffi';
 
 import 'package:flutter/material.dart';
 import 'package:tour/pages/navpages/bar_item_page.dart';
-import 'package:tour/pages/navpages/home_page.dart';
+import 'package:tour/pages/home_page.dart';
 import 'package:tour/pages/navpages/my_page.dart';
 import 'package:tour/pages/navpages/search_page.dart';
 

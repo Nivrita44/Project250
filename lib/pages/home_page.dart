@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:tour/misc/colors.dart';
 import 'package:tour/widgets/app_large_text.dart';
 
-import '../../widgets/app_text.dart';
+import '../widgets/app_text.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
